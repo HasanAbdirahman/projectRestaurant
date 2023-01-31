@@ -40,7 +40,7 @@
 * [Trello board - project planning](https://trello.com/b/7OsKredW/team-django-fett)
 * [Lucid chart - ERD](https://lucid.app/lucidchart/7362fe65-f761-4e9d-bfdc-737be7df7490/edit?invitationId=inv_7c563073-7549-4e2a-9613-91895e128912&referringApp=slack&page=0_0#)
 * [Wireframes](https://imgur.com/QXSRgvE)
-* [Project 3 - Site](https://web-production-144b.up.railway.app/)
+* [Project 3 - Site](https://teamproject-restaurants.herokuapp.com/)
 
 ### Next Steps
 #### The following functionality can be added 
